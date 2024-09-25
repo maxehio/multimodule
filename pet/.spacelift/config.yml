@@ -6,4 +6,4 @@ tests:
     project_root: examples/default
   - name: Failing pet test
     project_root: examples/failing
-    negative: false
+    negative: true
