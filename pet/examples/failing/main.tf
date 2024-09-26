@@ -1,1 +1,1 @@
-resource "tasty_bacon" "this" {}
+resource "tasty_baccon" "this" {}
