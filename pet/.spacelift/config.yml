@@ -2,7 +2,7 @@ version: 1
 module_version: 0.1.10
 
 tests:
-  - name: "Default pettt test"
+  - name: "Default pett test"
     project_root: examples/default
   - name: Failing pet test
     project_root: examples/failing
