@@ -1,5 +1,5 @@
 version: 1
-module_version: 0.1.11
+module_version: 0.1.19
 
 tests:
   - name: "Default pett test"
